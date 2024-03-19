@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\bin\Debug\Kdv Hesabı.exe.config
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\bin\Debug\Kdv Hesabı.exe
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\bin\Debug\Kdv Hesabı.pdb
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\obj\Debug\Kdv Hesabı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\obj\Debug\Kdv_Hesabı.Form1.resources
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\obj\Debug\Kdv_Hesabı.Properties.Resources.resources
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\obj\Debug\Kdv Hesabı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\obj\Debug\Kdv Hesabı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\obj\Debug\Kdv Hesabı.exe
+C:\Users\User\source\repos\Kdv Hesabı\Kdv Hesabı\obj\Debug\Kdv Hesabı.pdb
